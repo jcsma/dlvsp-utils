@@ -8,7 +8,7 @@ Utility functions for the practical assignments of the courses:
 
 - **Deep Learning for Visual Signal Processing**  
   (IPCVAI, Universidad Autónoma de Madrid)  
-  https://ipcvai.eu
+  https://ipcv.eu
 
 **Author:** Juan Carlos San Miguel  
 📧 juancarlos.sanmiguel@uam.es
@@ -71,5 +71,5 @@ Package configuration and dependencies
 
 - [Universidad Autónoma de Madrid (UAM)](https://www.uam.es)
 - [Escuela Politécnica Superior @ UAM](https://www.uam.es/EPS)
-- [Erasmus Mundus Master in Computer Vision and Artificial Intelligence (IPCVai)](https://ipcvai.eu)
+- [Erasmus Mundus Master in Computer Vision and Artificial Intelligence (IPCVai)](https://ipcv.eu)
 - [Master in Deep Learning for Audio and Visual Artificial Intelligence (MUDLAVai)](https://www.uam.es/uam/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video)
