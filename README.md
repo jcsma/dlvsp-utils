@@ -1,6 +1,12 @@
 # dlvsp-utils
 
-Small utility package used across course notebooks. Contains dataset helpers, simple metrics and plotting utilities.
+Utility functions for the practical assignments of the
+"Deep Learning for Visual Signal Processing" course (IPCVAI, UAM).
+
+Author: Juan Carlos San Miguel (<juancarlos.sanmiguel@uam.es>)
+
+This small utility package is used across the course notebooks and
+contains dataset helpers, simple metrics and plotting utilities.
 
 Install from GitHub (after you push the repo):
 
@@ -24,4 +30,9 @@ Files included in this scaffold:
 - `src/dlvsp_utils/metrics.py` (accuracy and reporting)
 - `src/dlvsp_utils/viz.py` (visualization helpers)
 - `pyproject.toml`
-# dlvsp-utils
+
+Related links:
+
+- [Universidad Autónoma de Madrid (UAM)](https://www.uam.es)
+- [Escuela Politécnica Superior @ UAM](https://www.uam.es/EPS)
+- [Interuniversity Master in Computer Vision and Artificial Intelligence (IPCVAI)](https://ipcvai.eu)
