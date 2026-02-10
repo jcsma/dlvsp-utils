@@ -34,6 +34,9 @@ Install directly from GitHub:
 
 ```bash
 pip install git+https://github.com/jcsma/dlvsp-utils.git
+```
+
+---
 
 ## Usage in notebooks:
 
@@ -47,6 +50,8 @@ train_ds, class_names = select_classes_dataset(train_full, ['cat','dog'])
 inspect_dataset_classes(train_ds, class_names=class_names, header="\nTRAIN:")
 ```
 
+---
+
 ## Package structure
 
 The repository contains the following modules:
@@ -58,6 +63,8 @@ Accuracy computation and per-class performance reporting
 Visualization helpers for analysis and debugging
 * pyproject.toml
 Package configuration and dependencies
+
+---
 
 ## Related links:
 
