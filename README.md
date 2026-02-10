@@ -1,4 +1,4 @@
-# dlvsp-utils
+<img width="3840" height="3840" alt="image" src="https://github.com/user-attachments/assets/bfb26a8e-48f0-4584-bffe-7e759ae15d77" /># dlvsp-utils
 
 Utility functions for the practical assignments of the courses:
 
@@ -12,6 +12,8 @@ Utility functions for the practical assignments of the courses:
 
 **Author:** Juan Carlos San Miguel  
 📧 juancarlos.sanmiguel@uam.es
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+https://www.linkedin.com/in/jcsanmiguel/
 
 ---
 
