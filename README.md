@@ -11,7 +11,7 @@ Utility functions for the practical assignments of the courses:
   https://ipcv.eu
 
 **Author:** Juan Carlos San Miguel  
-📧 juancarlos.sanmiguel@uam.es
+📧 juancarlos [dot] sanmiguel [at] uam [dot] es
 🌐 http://www-vpu.eps.uam.es/jcsanmiguel  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcsanmiguel/)
 
 ---
