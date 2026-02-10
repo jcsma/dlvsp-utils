@@ -342,19 +342,24 @@ def define_imbalance_profile(num_classes, max_count, student_id,
     else:
         raise ValueError('imbalance_type must be "long_tail" or "uniform_minority"')
 
-
 # ============================================================
 # Utility: inspect class presence & counts
 # ============================================================
-def inspect_dataset_classes(dataset, class_names=None):
+def inspect_dataset_classes(dataset, class_names=None, header=None):
     """
     Print which class indices are present in `dataset` and how many samples each has.
+
+    If `header` is provided, it will be printed before the class listing
+    (useful to label TRAIN/TEST blocks, e.g. header="\nTRAIN:").
 
     If class_names is provided, prints both:
       Class 0 (cat): 500 samples
     """
     targets = _get_targets_any_dataset(dataset)
     uniq, cnt = np.unique(targets, return_counts=True)
+
+    if header is not None:
+        print(header)
 
     print("Classes present:")
     for c, n in zip(uniq, cnt):
