@@ -10,9 +10,7 @@ Utility functions for the practical assignments of the courses:
   (IPCVAI, Universidad Autónoma de Madrid)  
   https://ipcv.eu
 
-**Author:** Juan Carlos San Miguel  
-📧 juancarlos [dot] sanmiguel [at] uam [dot] es
-
+**Author:** Juan Carlos San Miguel (📧 juancarlos [dot] sanmiguel [at] uam [dot] es)
 🌐 http://www-vpu.eps.uam.es/jcsanmiguel  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcsanmiguel/)
 
 ---
