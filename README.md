@@ -1,4 +1,4 @@
-<img width="3840" height="3840" alt="image" src="https://github.com/user-attachments/assets/bfb26a8e-48f0-4584-bffe-7e759ae15d77" /># dlvsp-utils
+# dlvsp-utils
 
 Utility functions for the practical assignments of the courses:
 
