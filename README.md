@@ -71,4 +71,4 @@ Package configuration and dependencies
 - [Universidad Autónoma de Madrid (UAM)](https://www.uam.es)
 - [Escuela Politécnica Superior @ UAM](https://www.uam.es/EPS)
 - [Erasmus Mundus Master in Computer Vision and Artificial Intelligence (IPCVai)](https://ipcvai.eu)
-- [Master in Deep Learning for Audio and Visual Artificial Intelligence (MUDLAVai)]((https://www.uam.es/uam/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video))
+- [Master in Deep Learning for Audio and Visual Artificial Intelligence (MUDLAVai)](https://www.uam.es/uam/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video)
