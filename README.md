@@ -12,8 +12,7 @@ Utility functions for the practical assignments of the courses:
 
 **Author:** Juan Carlos San Miguel  
 📧 juancarlos.sanmiguel@uam.es
-🌐 http://www-vpu.eps.uam.es/jcsanmiguel  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcsanmiguel/)
+🌐 http://www-vpu.eps.uam.es/jcsanmiguel [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcsanmiguel/)
 
 ---
 
