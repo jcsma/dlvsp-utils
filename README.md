@@ -55,13 +55,13 @@ inspect_dataset_classes(train_ds, class_names=class_names, header="\nTRAIN:")
 ## Package structure
 
 The repository contains the following modules:
-* src/dlvsp_utils/data.py
+* `src/dlvsp_utils/data.py`
 Dataset utilities (class selection, inspection, sampling helpers)
-* src/dlvsp_utils/metrics.py
+* `src/dlvsp_utils/metrics.py`
 Accuracy computation and per-class performance reporting
-* src/dlvsp_utils/viz.py
+* `src/dlvsp_utils/viz.py`
 Visualization helpers for analysis and debugging
-* pyproject.toml
+* `pyproject.toml`
 Package configuration and dependencies
 
 ---
