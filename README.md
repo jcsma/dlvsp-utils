@@ -7,12 +7,12 @@ Utility functions for the practical assignments of the courses:
   https://www.uam.es/uam/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video
 
 - **Aprendizaje para Procesamiento de Señales de Imagen y Vídeo**  
-  (MUCD, Máster Universitario en Ciencia de Datos, Universidad Autónoma de Madrid)  
-  https://www.uam.es/uam/master-universitario-ciencia-datos
-  (MUIA, Máster Universitario en Inteligencia Artificial, Universidad Autónoma de Madrid)  
-  https://www.uam.es/uam/master-universitario-inteligencia-artificial
-  (MUIT, Máster Universitario en Ingeniería de Telecomunicación, Universidad Autónoma de Madrid)  
-  https://www.uam.es/uam/master-universitario-ingenieria-telecomunicacion-eur-ace
+  (MUCD, [Máster Universitario en Ciencia de Datos](https://www.uam.es/uam/master-universitario-ciencia-datos), Universidad Autónoma de Madrid)  
+  
+  (MUIA, [Máster Universitario en Inteligencia Artificial](https://www.uam.es/uam/master-universitario-inteligencia-artificial), Universidad Autónoma de Madrid)  
+  
+  (MUIT, [Máster Universitario en Ingeniería de Telecomunicación](https://www.uam.es/uam/master-universitario-ingenieria-telecomunicacion-eur-ace), Universidad Autónoma de Madrid)  
+  
 
 - **Deep Learning for Visual Signal Processing**  
   (IPCVAI, Universidad Autónoma de Madrid)  
