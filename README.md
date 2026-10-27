@@ -3,8 +3,8 @@
 Utility functions for the practical assignments of the courses:
 
 - **Deep Learning for Image and Video Processing: Learning Strategies and Applications**  
-  (MUDLAVai, Universidad Autónoma de Madrid)  
-  https://www.uam.es/uam/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video
+  (MUDLAVai, **Master in Deep Learning for Audio and Visual Artificial Intelligence**, Universidad Autónoma de Madrid)  
+  
 
 - **Aprendizaje para Procesamiento de Señales de Imagen y Vídeo**  
   (MUCD, [Máster Universitario en Ciencia de Datos](https://www.uam.es/uam/master-universitario-ciencia-datos), Universidad Autónoma de Madrid)  
@@ -15,8 +15,8 @@ Utility functions for the practical assignments of the courses:
   
 
 - **Deep Learning for Visual Signal Processing**  
-  (IPCVAI, Universidad Autónoma de Madrid)  
-  https://ipcv.eu
+  ([IPCVAI](https://ipcv.eu), Universidad Autónoma de Madrid)  
+  
 
 **Author:** Juan Carlos San Miguel (📧 juancarlos [dot] sanmiguel [at] uam [dot] es)
 
