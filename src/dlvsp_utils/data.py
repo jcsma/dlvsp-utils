@@ -188,7 +188,8 @@ def select_classes_dataset(source_dataset, selected_class_names):
 
     # Create a mask of which samples belong to the selected classes
     targets = torch.as_tensor(source_dataset.targets)
-    mask = torch.isin(targets, torch.tensor(selected_class_indices))
+    #mask = torch.isin(targets, torch.tensor(selected_class_indices)) # pytorch > 1.10
+    mask = (targets[:, None] == torch.tensor(selected_class_indices)).any(dim=1) # compatible with older pytorch versions
     indices = mask.nonzero(as_tuple=True)[0].tolist()
 
     # Subset: keep only those samples
