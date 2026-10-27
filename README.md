@@ -6,7 +6,7 @@ Utility functions for the practical assignments of the courses:
   (MUDLAVai, Universidad Autónoma de Madrid)  
   https://www.uam.es/uam/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video
 
-- **"Aprendizaje para Procesamiento de Señales de Imagen y Vídeo**  
+- **Aprendizaje para Procesamiento de Señales de Imagen y Vídeo**  
   (MUCD, Máster Universitario en Ciencia de Datos, Universidad Autónoma de Madrid)  
   https://www.uam.es/uam/master-universitario-ciencia-datos
   (MUIA, Máster Universitario en Inteligencia Artificial, Universidad Autónoma de Madrid)  
