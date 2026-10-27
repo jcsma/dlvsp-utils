@@ -3,7 +3,7 @@
 Utility functions for the practical assignments of the courses:
 
 - **Deep Learning for Image and Video Processing: Learning Strategies and Applications**  
-  (MUDLAVai, **Master in Deep Learning for Audio and Visual Artificial Intelligence**, Universidad Autónoma de Madrid)  
+  (MUDLAVai, [Master in Deep Learning for Audio and Visual Artificial Intelligence](https://www.uam.es/uam/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video), Universidad Autónoma de Madrid)  
   
 
 - **Aprendizaje para Procesamiento de Señales de Imagen y Vídeo**  
